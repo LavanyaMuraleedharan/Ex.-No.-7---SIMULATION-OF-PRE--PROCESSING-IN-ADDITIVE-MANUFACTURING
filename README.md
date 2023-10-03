@@ -47,7 +47,7 @@
 ### Name:LAVANYA M
 ### Register Number:212222110021
 
-https://github.com/LavanyaMuraleedharan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING.git
+![image](https://github.com/LavanyaMuraleedharan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120103862/6d4a5fd6-8dbb-4011-912a-bcec2be04cac)
 
 
 ## Result: 
